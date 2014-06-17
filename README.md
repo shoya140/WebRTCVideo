@@ -6,6 +6,8 @@ WebRTCVideo
 node.jsとwebsocket.ioをシグナリングサーバ用に使っています。
 STUNサーバはGoogleのを使っています。
 
+[Sample](http://sei0o.github.io/WebRTCVideo/)
+
 # localhostで動かす
 ## node.jsをインストール
 こちらを参考に
